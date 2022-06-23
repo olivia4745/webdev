@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: poppins;
+}
+
+body img {
+    width: 700px;
+    padding-left: 320px;
+    padding-top: 10px;
+}
+
+.open-btn {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    padding: 12px 100px;
+    position: relative;
+    top: 50%;
+    left: 40%;
+    background: transparent;
+    cursor: pointer;
+}
+
+.open-btn:hover {
+    border: 2px solid rgb(133, 133, 206, 0.7);
+    background: rgb(133, 133, 206, 0.7);
+    border-radius: 20px;
+    transition: 0.5s;
+}
+
+.footer {
+    text-decoration: none;
+}
+
+.footer-col {
+    text-align: center;
+    margin-top: 12%;
+    background: rgb(133, 133, 206, 0.7);
+}
