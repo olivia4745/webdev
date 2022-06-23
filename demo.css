@@ -54,6 +54,14 @@ nav {
 }
 
 /*form*/
+.box{
+    margin-left: 24%;
+    text-align: center;
+    border: 1px solid grey;
+    background: white;
+    padding: 10px;
+    width: 680px;
+}
 .form{
     text-align: center;
 }
